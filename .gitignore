@@ -1,0 +1,11 @@
+
+# Compiled C++ programs
+*.exe
+*.o
+*.out
+
+# Generated output
+output.txt
+
+# VS Code local settings (optional)
+# .vscode/
